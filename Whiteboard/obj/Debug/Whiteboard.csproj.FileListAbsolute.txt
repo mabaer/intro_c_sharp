@@ -1,0 +1,26 @@
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\bin\Debug\Whiteboard.exe.config
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\bin\Debug\Whiteboard.exe
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\bin\Debug\Whiteboard.pdb
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.csprojResolveAssemblyReference.cache
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\MainWindow.baml
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\MainWindow.g.cs
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\App.g.cs
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard_MarkupCompile.cache
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.g.resources
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.Properties.Resources.resources
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.csproj.GenerateResource.Cache
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.exe
+c:\users\marc-andré\documents\visual studio 2012\Projects\Whiteboard\Whiteboard\obj\Debug\Whiteboard.pdb
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\bin\Debug\Whiteboard.exe.config
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.exe
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.pdb
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\bin\Debug\Whiteboard.exe
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\bin\Debug\Whiteboard.pdb
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.csprojResolveAssemblyReference.cache
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\MainWindow.baml
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\MainWindow.g.cs
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\App.g.cs
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard_MarkupCompile.cache
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.g.resources
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.Properties.Resources.resources
+D:\MAB-Data\Own\Offiziell\Life\MS Student Partner\Workshops\C# fuer Java\4 Whiteboard\Whiteboard\obj\Debug\Whiteboard.csproj.GenerateResource.Cache
